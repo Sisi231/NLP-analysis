@@ -36,18 +36,33 @@ To investigate how institutional discourse differs across geopolitical contexts 
 ## Project Structure
 
 ├── Notebooks-and-Data/
+    
     ├── Palestine-vs-Israel.ipynb          
+    
     ├── Ukraine-vs-Russia.ipynb
+    
     ├── Combined_notebook.ipynb
+    
     ├── .ipynb_checkpoints
+    
     └── Data
+        
         ├── pic2.jpg
+        
         ├── UkraineDocuments
+        
         └── PalestineDocuments
+        
 ├── Presentation/
+    
     └── Data Science Presentation
+    
 ├── Report/
+    
     └── Report
+    
+├── Palestine - visualization 
+
 ├── README.md
 
 ## Methodology
@@ -119,8 +134,8 @@ jupyter notebook
 ```
 * Open:
 
-  * `notebooks/gaza.ipynb`
-  * `notebooks/ukraine.ipynb`
+  * `Notebooks-and-Data/Palestine-vs-Israel.ipynb`
+  * `Notebooks-and-Data/Ukraine-vs-Russia.ipynb`
 
 Run cells sequentially to reproduce the analysis.
 
